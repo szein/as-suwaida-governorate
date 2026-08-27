@@ -1,0 +1,292 @@
+{
+  "name": "As-Suwayda Governorate Administrative Divisions",
+  "country": "Syria",
+  "version": "1.0.0",
+  "last_updated": "2026-08-27",
+  "license": "CC-BY-4.0",
+  "schema_version": "1.0",
+  "districts": [
+    {
+      "district_en": "As-Suwayda District",
+      "district_ar": "منطقة السويداء",
+      "subdistricts": [
+        {
+          "subdistrict_en": "As-Suwayda Subdistrict",
+          "subdistrict_ar": "ناحية مركز السويداء",
+          "villages": [
+            {
+              "name_en": "As-Suwayda (City)",
+              "name_ar": "مدينة السويداء"
+            },
+            {
+              "name_en": "Atil",
+              "name_ar": "عتيل"
+            },
+            {
+              "name_en": "Qanawat",
+              "name_ar": "قنوات"
+            },
+            {
+              "name_en": "Al-Kafr",
+              "name_ar": "الكفر"
+            },
+            {
+              "name_en": "Habran",
+              "name_ar": "حبران"
+            },
+            {
+              "name_en": "Aslaha",
+              "name_ar": "الأصلحة"
+            },
+            {
+              "name_en": "Maf'ala",
+              "name_ar": "مفعلة"
+            },
+            {
+              "name_en": "Raha",
+              "name_ar": "رحة"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Al-Mazraa Subdistrict",
+          "subdistrict_ar": "ناحية المزرعة",
+          "villages": [
+            {
+              "name_en": "Al-Mazraa",
+              "name_ar": "المزرعة"
+            },
+            {
+              "name_en": "Tha'lah",
+              "name_ar": "ثعلة"
+            },
+            {
+              "name_en": "Al-Sijn",
+              "name_ar": "السجن"
+            },
+            {
+              "name_en": "Al-Tireh",
+              "name_ar": "الطيرة"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Al-Mushannaf Subdistrict",
+          "subdistrict_ar": "ناحية المشنف",
+          "villages": [
+            {
+              "name_en": "Al-Mushannaf",
+              "name_ar": "المشنف"
+            },
+            {
+              "name_en": "Tarba",
+              "name_ar": "طربا"
+            },
+            {
+              "name_en": "Al-Ghayda",
+              "name_ar": "الغيضة"
+            },
+            {
+              "name_en": "Umm Dhubab",
+              "name_ar": "أم ضبيب"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Al-Qurayya Subdistrict",
+          "subdistrict_ar": "ناحية القريّا",
+          "villages": [
+            {
+              "name_en": "Al-Qurayya",
+              "name_ar": "القريّا"
+            },
+            {
+              "name_en": "Afineh",
+              "name_ar": "عفينة"
+            },
+            {
+              "name_en": "Hout",
+              "name_ar": "حوط"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "district_en": "Shahba District",
+      "district_ar": "منطقة شهبا",
+      "subdistricts": [
+        {
+          "subdistrict_en": "Shahba Subdistrict",
+          "subdistrict_ar": "ناحية مركز شهبا",
+          "villages": [
+            {
+              "name_en": "Shahba (City)",
+              "name_ar": "مدينة شهبا"
+            },
+            {
+              "name_en": "Majadel",
+              "name_ar": "مجادل"
+            },
+            {
+              "name_en": "Umm az-Zaytoun",
+              "name_ar": "أم الزيتون"
+            },
+            {
+              "name_en": "Murchik",
+              "name_ar": "مرشك"
+            },
+            {
+              "name_en": "Mardak",
+              "name_ar": "مردك"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Al-Ariqah Subdistrict",
+          "subdistrict_ar": "ناحية عريقة",
+          "villages": [
+            {
+              "name_en": "Al-Ariqah",
+              "name_ar": "عريقة"
+            },
+            {
+              "name_en": "Harran",
+              "name_ar": "حران"
+            },
+            {
+              "name_en": "Lubbein",
+              "name_ar": "لبين"
+            },
+            {
+              "name_en": "Dama",
+              "name_ar": "داما"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Shaqqa Subdistrict",
+          "subdistrict_ar": "ناحية شقا",
+          "villages": [
+            {
+              "name_en": "Shaqqa",
+              "name_ar": "شقا"
+            },
+            {
+              "name_en": "Al-Hit",
+              "name_ar": "الهيت"
+            },
+            {
+              "name_en": "Al-Hiat",
+              "name_ar": "الهيات"
+            },
+            {
+              "name_en": "Dumeir",
+              "name_ar": "دومير"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "As-Sawra as-Saghira Subdistrict",
+          "subdistrict_ar": "ناحية الصورة الصغيرة",
+          "villages": [
+            {
+              "name_en": "As-Sawra as-Saghira",
+              "name_ar": "الصورة الصغيرة"
+            },
+            {
+              "name_en": "Al-Hazim",
+              "name_ar": "الحازم"
+            },
+            {
+              "name_en": "Lahtha",
+              "name_ar": "لاهثة"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "district_en": "Salkhad District",
+      "district_ar": "منطقة صلخد",
+      "subdistricts": [
+        {
+          "subdistrict_en": "Salkhad Subdistrict",
+          "subdistrict_ar": "ناحية مركز صلخد",
+          "villages": [
+            {
+              "name_en": "Salkhad (City)",
+              "name_ar": "مدينة صلخد"
+            },
+            {
+              "name_en": "Awas",
+              "name_ar": "عواس"
+            },
+            {
+              "name_en": "Al-Ayn",
+              "name_ar": "العين"
+            },
+            {
+              "name_en": "Al-Kharaba",
+              "name_ar": "الخربة"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Al-Ghariyah Subdistrict",
+          "subdistrict_ar": "ناحية الغارية",
+          "villages": [
+            {
+              "name_en": "Al-Ghariyah",
+              "name_ar": "الغارية"
+            },
+            {
+              "name_en": "Al-Anz",
+              "name_ar": "العنز"
+            },
+            {
+              "name_en": "Al-Mughayyir",
+              "name_ar": "المغير"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Dhibin Subdistrict",
+          "subdistrict_ar": "ناحية ذيبين",
+          "villages": [
+            {
+              "name_en": "Dhibin",
+              "name_ar": "ذيبين"
+            },
+            {
+              "name_en": "Umm ar-Rumman",
+              "name_ar": "أم الرمان"
+            }
+          ]
+        },
+        {
+          "subdistrict_en": "Malah Subdistrict",
+          "subdistrict_ar": "ناحية ملح",
+          "villages": [
+            {
+              "name_en": "Malah",
+              "name_ar": "ملح"
+            },
+            {
+              "name_en": "Imtan",
+              "name_ar": "امتان"
+            },
+            {
+              "name_en": "Qaysama",
+              "name_ar": "قيصمة"
+            },
+            {
+              "name_en": "Orman",
+              "name_ar": "عرمان"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
